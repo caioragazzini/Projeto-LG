@@ -1,7 +1,9 @@
+using LG__Lorem_Ipsum_Inc_Projetos.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,11 +28,44 @@ namespace BackEnd_ProjetosLG
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            string mySqlConnection = Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<AppDbContext>(options => options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
+
+            services.AddControllers()
+                 .AddNewtonsoftJson(options =>
+                 {
+                     options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+
+                 }
+                 );
+
+            services.AddApiVersioning(option =>
+            {
+
+                option.AssumeDefaultVersionWhenUnspecified = true;
+                option.DefaultApiVersion = new ApiVersion(1, 0);
+                option.ReportApiVersions = true;
+
+            }
+            );
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BackEnd_ProjetosLG", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "LG__Lorem_Ipsum_Inc_Projetos",
+                    Version = "v1",
+                    Description = "Gerenciador de Pprojetos",
+                    TermsOfService = new Uri("https://github.com/caioragazzini"),
+                    Contact = new OpenApiContact
+                    {
+                        Email = "caiovrragazzini@gmail.com",
+                        Name = "Caio Ragazzini",
+                        Url = new Uri("http://www.caioragazzini.com/")
+
+                    }
+                });
             });
         }
 
