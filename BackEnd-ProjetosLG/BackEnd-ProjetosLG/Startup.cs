@@ -1,4 +1,4 @@
-using LG__Lorem_Ipsum_Inc_Projetos.Context;
+using BackEnd_ProjetosLG.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;

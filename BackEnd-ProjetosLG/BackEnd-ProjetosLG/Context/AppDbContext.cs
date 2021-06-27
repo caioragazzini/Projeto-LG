@@ -1,4 +1,4 @@
-﻿using LG__Lorem_Ipsum_Inc_Projetos.Models;
+﻿using BackEnd_ProjetosLG.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LG__Lorem_Ipsum_Inc_Projetos.Context
+namespace BackEnd_ProjetosLG.Context
 {
     public class AppDbContext : DbContext
     {

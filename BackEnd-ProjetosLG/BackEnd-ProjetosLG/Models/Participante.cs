@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LG__Lorem_Ipsum_Inc_Projetos.Models
+namespace BackEnd_ProjetosLG.Models
 {
     [Table("Participantes")]
     public class Participante
