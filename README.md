@@ -1,27 +1,19 @@
 # Projeto-LG
-Sistema para o grupo Lorem Ipsum Inc, gerenciar os cadastros de projetos, seu tempo de duração e realizar uma simulação do cálculo de retorno do investimento.
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-
+Sistema para o grupo Lorem Ipsum Inc, gerencia os cadastros de projetos, seu tempo de duração e realiza uma simulação do cálculo de retorno do investimento.
 
 ## Descrição do Projeto
-<p align="center">O sistema projetado em BackEnd e FrontEnd</p>
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 </a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
-
+<p align="left">
+	Sistema projetado:
+	<p>- BackEnd: WebApi construída em .NET Core, Entity Framework Core Dapper Bancos relacionais MYSQL, Entidades criadas utilizando Code First, seguindo os padrões REST na construção das rotas e retornos e documentação utilizando Swagger)</p>
+	<p>-FrontEnd: construida em Asp.NETWeb Application .Net Framework 4.7.2</p>
+	
 ### Features
+Back End
+- [x] ProjetosControllers
+- [x] ParticipanteControllers
+- [x] ParticipanteProjetosControllers
 
+Front End
 - [x] Cadastro de projetos e participantes
 - [x] Edição de projetos e participantes
 - [x] Exclusão de projetos e participantes
@@ -58,11 +50,17 @@ $ npm run dev:server
 # O BackEnd pode ser testado através do Swagger acessando https://localhost:44394/swagger/index.html
 # O FrontEnd não precisa de nenhuma configuração inicial
 ```
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Microsoft Visual Studio](https://expo.io/)
+- .Net Framework 4.7.2
+- .NET Core
+- Entity Framework Core Dapper Bancos relacionais MySQL 
+- Swagger
+
 
 #Autor
 Caio Ragazzini
