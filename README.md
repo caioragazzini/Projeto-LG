@@ -40,7 +40,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/caioragazzini/Projeto-LG.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw1
@@ -54,7 +54,15 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
 
-# O servidor tem que estar configurado o BackEnd é necessario configurar o Localhost- acesse <https://localhost:44394/>
+# O servidor do BackEnd tem que estar configurado o Localhost - acesse <https://localhost:44394/>
 # O BackEnd pode ser testado através do Swagger acessando https://localhost:44394/swagger/index.html
 # O FrontEnd não precisa de nenhuma configuração inicial
 ```
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Microsoft Visual Studio](https://expo.io/)
+
+#Autor
+Caio Ragazzini
