@@ -21,13 +21,13 @@ Front End
 - [x] Simulação de projetos
 
 
-### Pré-requisitos
+#### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 - Visual Studio 2019
 - MySql 
 
-### 🎲 Rodando o BackEnd e FrontEnd (servidor)
+##### 🎲 Rodando o BackEnd e FrontEnd (servidor)
 
 ```bash
 # Clone este repositório
@@ -51,7 +51,7 @@ $ npm run dev:server
 # O FrontEnd não precisa de nenhuma configuração inicial
 ```
 
-### 🛠 Tecnologias
+###### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -63,6 +63,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Swagger
 
 
-#Autor
+Autor
 Caio Ragazzini
 (92) 98835-9687
