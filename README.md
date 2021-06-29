@@ -11,9 +11,9 @@ Sistema para o grupo Lorem Ipsum Inc, gerenciar os cadastros de projetos, seu te
 
 
 ## Descrição do Projeto
-<p align="center">O sistema é concebido em BackEnd e FrontEnd</p>
+<p align="center">O sistema projetado em BackEnd e FrontEnd</p>
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
+    <a href="https://pt-br.reactjs.org/">🔗 </a>
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 <h4 align="center"> 
