@@ -70,3 +70,5 @@ C:\Users\caiov\Desktop\ProjetoLG\BackEnd-ProjetosLG\BackEnd-ProjetosLG\obj\Debug
 C:\Users\caiov\Desktop\ProjetoLG\BackEnd-ProjetosLG\BackEnd-ProjetosLG\obj\Debug\net5.0\ref\BackEnd-ProjetosLG.dll
 C:\Users\caiov\Desktop\ProjetoLG\BackEnd-ProjetosLG\BackEnd-ProjetosLG\obj\Debug\net5.0\BackEnd-ProjetosLG.pdb
 C:\Users\caiov\Desktop\ProjetoLG\BackEnd-ProjetosLG\BackEnd-ProjetosLG\obj\Debug\net5.0\BackEnd-ProjetosLG.genruntimeconfig.cache
+C:\Users\caiov\Desktop\ProjetoLG\BackEnd-ProjetosLG\BackEnd-ProjetosLG\bin\Debug\net5.0\Dapper.dll
+C:\Users\caiov\Desktop\ProjetoLG\BackEnd-ProjetosLG\BackEnd-ProjetosLG\bin\Debug\net5.0\DatabaseWrapper.Core.dll

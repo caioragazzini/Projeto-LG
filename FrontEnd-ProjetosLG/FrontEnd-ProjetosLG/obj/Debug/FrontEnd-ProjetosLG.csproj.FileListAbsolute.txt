@@ -67,8 +67,16 @@ C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\New
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\Antlr3.Runtime.pdb
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\obj\Debug\FrontEnd-ProjetosLG.csprojAssemblyReference.cache
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\obj\Debug\FrontEnd-ProjetosLG.csproj.CoreCompileInputs.cache
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\obj\Debug\FrontEnd-ProjetosLG.csproj.CopyComplete
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\obj\Debug\FrontEnd-ProjetosLG.dll
 C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\obj\Debug\FrontEnd-ProjetosLG.pdb
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\System.Net.Http.Formatting.dll
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\System.Net.Http.Formatting.xml
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\obj\Debug\FrontEnd-ProjetosLG.csprojAssemblyReference.cache
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\AWSSDK.Core.dll
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\AWSSDK.S3.dll
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\AWSSDK.Core.pdb
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\AWSSDK.Core.xml
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\AWSSDK.S3.pdb
+C:\Users\caiov\Desktop\ProjetoLG\FrontEnd-ProjetosLG\FrontEnd-ProjetosLG\bin\AWSSDK.S3.xml

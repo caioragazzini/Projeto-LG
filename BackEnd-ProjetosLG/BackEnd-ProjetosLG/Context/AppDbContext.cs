@@ -14,11 +14,15 @@ namespace BackEnd_ProjetosLG.Context
         {
 
         }
-        public AppDbContext()
-        {
+        //public AppDbContext()
+        //{
 
+        //}
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
         }
-       
+
         public DbSet<Projeto> Projetos { get; set; }
         public DbSet<Participante> Participantes { get; set; }
         public DbSet<ParticipanteProjeto> ParticipanteProjetos { get; set; }

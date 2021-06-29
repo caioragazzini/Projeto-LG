@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hBI9eIXiEZAe0LAWqoodA7wWXYWTAROzgyQGJy+NWbh6ENIb7El/BRcwjGmn+rBoxT5CjA43tBPzicSzndhqsA==",
+  "dgSpecHash": "p/MdKgUDS6dUnTc2ZyH/jPqGlaNrnzeKH+8ZPpaIpWOqrm70iNJiHgoLhpT8q2hr/rZJy2FoKB2T/Nyd18wjNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\caiov\\Desktop\\ProjetoLG\\BackEnd-ProjetosLG\\BackEnd-ProjetosLG\\BackEnd-ProjetosLG.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\caiov\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\caiov\\.nuget\\packages\\databasewrapper.core\\3.3.1.3\\databasewrapper.core.3.3.1.3.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -39,6 +41,7 @@
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
@@ -95,6 +98,7 @@
     "C:\\Users\\caiov\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\caiov\\.nuget\\packages\\system.linq.dynamic.3.5\\1.0.0\\system.linq.dynamic.3.5.1.0.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\caiov\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
